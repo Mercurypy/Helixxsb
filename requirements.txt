@@ -1,0 +1,13 @@
+discord.py==1.7.3
+logging
+random
+os
+beautifulsoup4
+time
+colorama
+pystyle
+asyncio
+requests
+datetime
+faker
+pypresence
